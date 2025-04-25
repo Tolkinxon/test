@@ -12,9 +12,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "config": "^3.3.12",
     "express": "^5.1.0"
-  },
-  "devDependencies": {
-    "dotenv": "^16.5.0"
   }
 }
