@@ -10,9 +10,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "config": "^3.3.12",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolkinxon/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tolkinxon/test/issues"
+  },
+  "homepage": "https://github.com/Tolkinxon/test#readme",
+  "description": ""
 }
