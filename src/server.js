@@ -42,7 +42,7 @@ app.get("/download/:fileName", (req, res)=>{
 app.post('/upload', upload.single('file'), (req, res)=>{
     console.log(req.file);
     
-    res.send('file yuklandi');
+    res.json({message: 'file yuklandi'});
 })
 
 
