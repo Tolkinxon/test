@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "tolkinxon",
+        "email": "tolkinxon@gmail.com",
+        "createdAt": "30.04.2025",
+        "updatedAt": null
+    },
+    {
+        "id": 2,
+        "name": "tolkinxon2",
+        "email": "tolkinxon@1gmail.com",
+        "createdAt": "30.04.2025",
+        "updatedAt": null
+    },
+    {
+        "id": 3,
+        "name": "hello",
+        "email": "hello@gmai.com",
+        "createdAt": "30.04.2025",
+        "updatedAt": null
+    },
+    {
+        "id": 4,
+        "name": "hello",
+        "email": "hello@1gmai.com",
+        "createdAt": "30.04.2025",
+        "updatedAt": null
+    },
+    {
+        "id": 5,
+        "name": "fdf",
+        "email": "fasd@fdf.gh",
+        "createdAt": "30.04.2025",
+        "updatedAt": null
+    }
+]
